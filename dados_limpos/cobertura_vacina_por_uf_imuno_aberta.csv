@@ -1,0 +1,649 @@
+UF,Imuno,Cobertura Vacinal
+RO,BCG,105.11
+AC,BCG,105.54
+AM,BCG,107.99
+RR,BCG,113.28
+PA,BCG,110.41
+AP,BCG,114.84
+TO,BCG,105.64
+MA,BCG,113.24
+PI,BCG,102.4
+CE,BCG,110.81
+RN,BCG,103.03
+PB,BCG,107.0
+PE,BCG,113.25
+AL,BCG,104.94
+SE,BCG,105.0
+BA,BCG,101.74
+MG,BCG,99.21
+ES,BCG,102.42
+RJ,BCG,109.54
+SP,BCG,105.87
+PR,BCG,102.36
+SC,BCG,101.36
+RS,BCG,99.84
+MS,BCG,108.57
+MT,BCG,104.36
+GO,BCG,106.01
+DF,BCG,111.33
+RO,Hepatite B  em crianças até 30 dias,77.44
+AC,Hepatite B  em crianças até 30 dias,60.09
+AM,Hepatite B  em crianças até 30 dias,74.39
+RR,Hepatite B  em crianças até 30 dias,79.26
+PA,Hepatite B  em crianças até 30 dias,60.2
+AP,Hepatite B  em crianças até 30 dias,73.2
+TO,Hepatite B  em crianças até 30 dias,73.44
+MA,Hepatite B  em crianças até 30 dias,68.56
+PI,Hepatite B  em crianças até 30 dias,66.79
+CE,Hepatite B  em crianças até 30 dias,74.72
+RN,Hepatite B  em crianças até 30 dias,65.29
+PB,Hepatite B  em crianças até 30 dias,69.53
+PE,Hepatite B  em crianças até 30 dias,70.34
+AL,Hepatite B  em crianças até 30 dias,71.19
+SE,Hepatite B  em crianças até 30 dias,82.58
+BA,Hepatite B  em crianças até 30 dias,61.34
+MG,Hepatite B  em crianças até 30 dias,68.11
+ES,Hepatite B  em crianças até 30 dias,70.21
+RJ,Hepatite B  em crianças até 30 dias,65.9
+SP,Hepatite B  em crianças até 30 dias,71.69
+PR,Hepatite B  em crianças até 30 dias,61.29
+SC,Hepatite B  em crianças até 30 dias,70.39
+RS,Hepatite B  em crianças até 30 dias,62.96
+MS,Hepatite B  em crianças até 30 dias,82.56
+MT,Hepatite B  em crianças até 30 dias,75.55
+GO,Hepatite B  em crianças até 30 dias,62.3
+DF,Hepatite B  em crianças até 30 dias,92.93
+RO,Rotavírus Humano,61.92
+AC,Rotavírus Humano,49.5
+AM,Rotavírus Humano,49.73
+RR,Rotavírus Humano,56.47
+PA,Rotavírus Humano,46.96
+AP,Rotavírus Humano,52.98
+TO,Rotavírus Humano,59.49
+MA,Rotavírus Humano,51.27
+PI,Rotavírus Humano,54.52
+CE,Rotavírus Humano,62.18
+RN,Rotavírus Humano,52.56
+PB,Rotavírus Humano,57.73
+PE,Rotavírus Humano,60.37
+AL,Rotavírus Humano,51.26
+SE,Rotavírus Humano,61.23
+BA,Rotavírus Humano,50.68
+MG,Rotavírus Humano,61.82
+ES,Rotavírus Humano,63.97
+RJ,Rotavírus Humano,57.28
+SP,Rotavírus Humano,62.77
+PR,Rotavírus Humano,61.7
+SC,Rotavírus Humano,66.16
+RS,Rotavírus Humano,56.87
+MS,Rotavírus Humano,68.16
+MT,Rotavírus Humano,60.39
+GO,Rotavírus Humano,61.42
+DF,Rotavírus Humano,62.94
+RO,Meningococo C,60.8
+AC,Meningococo C,50.59
+AM,Meningococo C,55.81
+RR,Meningococo C,61.78
+PA,Meningococo C,45.99
+AP,Meningococo C,60.55
+TO,Meningococo C,54.69
+MA,Meningococo C,47.92
+PI,Meningococo C,52.2
+CE,Meningococo C,60.29
+RN,Meningococo C,53.29
+PB,Meningococo C,51.39
+PE,Meningococo C,53.75
+AL,Meningococo C,48.84
+SE,Meningococo C,56.59
+BA,Meningococo C,55.34
+MG,Meningococo C,71.2
+ES,Meningococo C,59.44
+RJ,Meningococo C,62.57
+SP,Meningococo C,72.57
+PR,Meningococo C,64.1
+SC,Meningococo C,69.56
+RS,Meningococo C,59.18
+MS,Meningococo C,69.14
+MT,Meningococo C,60.63
+GO,Meningococo C,64.13
+DF,Meningococo C,55.1
+RO,Hepatite B,91.29
+AC,Hepatite B,74.94
+AM,Hepatite B,72.97
+RR,Hepatite B,81.64
+PA,Hepatite B,71.09
+AP,Hepatite B,80.76
+TO,Hepatite B,90.36
+MA,Hepatite B,67.82
+PI,Hepatite B,67.84
+CE,Hepatite B,77.12
+RN,Hepatite B,68.49
+PB,Hepatite B,75.29
+PE,Hepatite B,76.21
+AL,Hepatite B,73.23
+SE,Hepatite B,77.89
+BA,Hepatite B,69.59
+MG,Hepatite B,86.7
+ES,Hepatite B,95.9
+RJ,Hepatite B,75.63
+SP,Hepatite B,80.97
+PR,Hepatite B,89.93
+SC,Hepatite B,90.03
+RS,Hepatite B,75.56
+MS,Hepatite B,84.91
+MT,Hepatite B,73.58
+GO,Hepatite B,75.54
+DF,Hepatite B,88.8
+RO,Penta,87.89
+AC,Penta,64.19
+AM,Penta,73.35
+RR,Penta,77.28
+PA,Penta,60.53
+AP,Penta,66.74
+TO,Penta,80.97
+MA,Penta,71.01
+PI,Penta,70.55
+CE,Penta,87.97
+RN,Penta,69.92
+PB,Penta,78.0
+PE,Penta,81.35
+AL,Penta,77.29
+SE,Penta,77.12
+BA,Penta,68.17
+MG,Penta,82.76
+ES,Penta,80.3
+RJ,Penta,78.48
+SP,Penta,78.84
+PR,Penta,81.54
+SC,Penta,83.04
+RS,Penta,79.21
+MS,Penta,91.44
+MT,Penta,80.73
+GO,Penta,79.35
+DF,Penta,82.5
+RO,Pneumocócica,89.21
+AC,Pneumocócica,64.09
+AM,Pneumocócica,71.17
+RR,Pneumocócica,78.81
+PA,Pneumocócica,60.49
+AP,Pneumocócica,67.15
+TO,Pneumocócica,85.21
+MA,Pneumocócica,67.77
+PI,Pneumocócica,73.16
+CE,Pneumocócica,87.94
+RN,Pneumocócica,74.98
+PB,Pneumocócica,81.05
+PE,Pneumocócica,85.53
+AL,Pneumocócica,76.26
+SE,Pneumocócica,83.5
+BA,Pneumocócica,71.12
+MG,Pneumocócica,90.02
+ES,Pneumocócica,88.46
+RJ,Pneumocócica,75.51
+SP,Pneumocócica,85.33
+PR,Pneumocócica,86.97
+SC,Pneumocócica,90.87
+RS,Pneumocócica,81.51
+MS,Pneumocócica,93.78
+MT,Pneumocócica,80.86
+GO,Pneumocócica,83.06
+DF,Pneumocócica,84.25
+RO,Poliomielite,96.58
+AC,Poliomielite,88.5
+AM,Poliomielite,83.79
+RR,Poliomielite,90.74
+PA,Poliomielite,88.23
+AP,Poliomielite,88.13
+TO,Poliomielite,97.95
+MA,Poliomielite,84.77
+PI,Poliomielite,88.01
+CE,Poliomielite,102.88
+RN,Poliomielite,85.9
+PB,Poliomielite,92.41
+PE,Poliomielite,103.95
+AL,Poliomielite,85.34
+SE,Poliomielite,96.36
+BA,Poliomielite,86.84
+MG,Poliomielite,94.87
+ES,Poliomielite,101.12
+RJ,Poliomielite,98.38
+SP,Poliomielite,96.95
+PR,Poliomielite,95.33
+SC,Poliomielite,95.31
+RS,Poliomielite,91.46
+MS,Poliomielite,99.66
+MT,Poliomielite,96.64
+GO,Poliomielite,92.72
+DF,Poliomielite,95.0
+RO,Poliomielite 4 anos,0.03
+AC,Poliomielite 4 anos,1.87
+AM,Poliomielite 4 anos,0.18
+RR,Poliomielite 4 anos,0.4
+PA,Poliomielite 4 anos,0.03
+AP,Poliomielite 4 anos,10.81
+TO,Poliomielite 4 anos,0.07
+MA,Poliomielite 4 anos,1.17
+PI,Poliomielite 4 anos,0.29
+CE,Poliomielite 4 anos,0.6
+RN,Poliomielite 4 anos,0.6
+PB,Poliomielite 4 anos,0.47
+PE,Poliomielite 4 anos,0.54
+AL,Poliomielite 4 anos,1.18
+SE,Poliomielite 4 anos,0.11
+BA,Poliomielite 4 anos,0.1
+MG,Poliomielite 4 anos,0.12
+ES,Poliomielite 4 anos,0.35
+RJ,Poliomielite 4 anos,0.16
+SP,Poliomielite 4 anos,0.65
+PR,Poliomielite 4 anos,0.14
+SC,Poliomielite 4 anos,0.25
+RS,Poliomielite 4 anos,0.62
+MS,Poliomielite 4 anos,0.47
+MT,Poliomielite 4 anos,0.75
+GO,Poliomielite 4 anos,0.21
+DF,Poliomielite 4 anos,0.12
+RO,Febre Amarela,92.06
+AC,Febre Amarela,76.83
+AM,Febre Amarela,80.3
+RR,Febre Amarela,83.87
+PA,Febre Amarela,75.05
+AP,Febre Amarela,78.79
+TO,Febre Amarela,87.75
+MA,Febre Amarela,79.41
+PI,Febre Amarela,62.39
+CE,Febre Amarela,2.34
+RN,Febre Amarela,0.81
+PB,Febre Amarela,0.43
+PE,Febre Amarela,2.04
+AL,Febre Amarela,0.47
+SE,Febre Amarela,0.78
+BA,Febre Amarela,65.43
+MG,Febre Amarela,74.59
+ES,Febre Amarela,17.08
+RJ,Febre Amarela,4.53
+SP,Febre Amarela,15.52
+PR,Febre Amarela,37.61
+SC,Febre Amarela,15.8
+RS,Febre Amarela,21.11
+MS,Febre Amarela,90.35
+MT,Febre Amarela,80.83
+GO,Febre Amarela,81.4
+DF,Febre Amarela,27.36
+RO,Hepatite A,69.82
+AC,Hepatite A,47.95
+AM,Hepatite A,61.01
+RR,Hepatite A,66.25
+PA,Hepatite A,47.04
+AP,Hepatite A,57.51
+TO,Hepatite A,64.37
+MA,Hepatite A,53.78
+PI,Hepatite A,57.55
+CE,Hepatite A,71.61
+RN,Hepatite A,54.19
+PB,Hepatite A,59.96
+PE,Hepatite A,64.29
+AL,Hepatite A,65.36
+SE,Hepatite A,62.73
+BA,Hepatite A,57.83
+MG,Hepatite A,69.6
+ES,Hepatite A,68.4
+RJ,Hepatite A,63.51
+SP,Hepatite A,64.42
+PR,Hepatite A,69.09
+SC,Hepatite A,71.14
+RS,Hepatite A,65.42
+MS,Hepatite A,72.61
+MT,Hepatite A,65.76
+GO,Hepatite A,65.29
+DF,Hepatite A,71.56
+RO,Pneumocócica(1º ref),86.41
+AC,Pneumocócica(1º ref),58.36
+AM,Pneumocócica(1º ref),74.57
+RR,Pneumocócica(1º ref),78.17
+PA,Pneumocócica(1º ref),61.69
+AP,Pneumocócica(1º ref),65.53
+TO,Pneumocócica(1º ref),81.0
+MA,Pneumocócica(1º ref),69.72
+PI,Pneumocócica(1º ref),75.72
+CE,Pneumocócica(1º ref),94.31
+RN,Pneumocócica(1º ref),75.05
+PB,Pneumocócica(1º ref),76.69
+PE,Pneumocócica(1º ref),83.67
+AL,Pneumocócica(1º ref),81.51
+SE,Pneumocócica(1º ref),83.67
+BA,Pneumocócica(1º ref),72.84
+MG,Pneumocócica(1º ref),87.25
+ES,Pneumocócica(1º ref),86.2
+RJ,Pneumocócica(1º ref),76.83
+SP,Pneumocócica(1º ref),82.52
+PR,Pneumocócica(1º ref),86.95
+SC,Pneumocócica(1º ref),87.3
+RS,Pneumocócica(1º ref),79.67
+MS,Pneumocócica(1º ref),94.56
+MT,Pneumocócica(1º ref),79.73
+GO,Pneumocócica(1º ref),79.94
+DF,Pneumocócica(1º ref),86.21
+RO,Meningococo C (1º ref),88.72
+AC,Meningococo C (1º ref),61.4
+AM,Meningococo C (1º ref),77.86
+RR,Meningococo C (1º ref),81.25
+PA,Meningococo C (1º ref),64.88
+AP,Meningococo C (1º ref),68.95
+TO,Meningococo C (1º ref),83.67
+MA,Meningococo C (1º ref),72.3
+PI,Meningococo C (1º ref),78.23
+CE,Meningococo C (1º ref),95.14
+RN,Meningococo C (1º ref),76.64
+PB,Meningococo C (1º ref),76.67
+PE,Meningococo C (1º ref),86.92
+AL,Meningococo C (1º ref),80.06
+SE,Meningococo C (1º ref),85.11
+BA,Meningococo C (1º ref),77.15
+MG,Meningococo C (1º ref),90.03
+ES,Meningococo C (1º ref),86.69
+RJ,Meningococo C (1º ref),78.03
+SP,Meningococo C (1º ref),84.28
+PR,Meningococo C (1º ref),88.83
+SC,Meningococo C (1º ref),90.7
+RS,Meningococo C (1º ref),82.15
+MS,Meningococo C (1º ref),95.98
+MT,Meningococo C (1º ref),84.55
+GO,Meningococo C (1º ref),83.22
+DF,Meningococo C (1º ref),89.98
+RO,Poliomielite(1º ref),80.3
+AC,Poliomielite(1º ref),61.16
+AM,Poliomielite(1º ref),71.68
+RR,Poliomielite(1º ref),80.99
+PA,Poliomielite(1º ref),57.58
+AP,Poliomielite(1º ref),52.12
+TO,Poliomielite(1º ref),76.42
+MA,Poliomielite(1º ref),68.03
+PI,Poliomielite(1º ref),66.88
+CE,Poliomielite(1º ref),88.94
+RN,Poliomielite(1º ref),69.89
+PB,Poliomielite(1º ref),74.89
+PE,Poliomielite(1º ref),79.25
+AL,Poliomielite(1º ref),77.92
+SE,Poliomielite(1º ref),77.56
+BA,Poliomielite(1º ref),69.47
+MG,Poliomielite(1º ref),83.61
+ES,Poliomielite(1º ref),79.2
+RJ,Poliomielite(1º ref),70.18
+SP,Poliomielite(1º ref),79.84
+PR,Poliomielite(1º ref),77.89
+SC,Poliomielite(1º ref),81.37
+RS,Poliomielite(1º ref),75.56
+MS,Poliomielite(1º ref),91.55
+MT,Poliomielite(1º ref),77.47
+GO,Poliomielite(1º ref),76.2
+DF,Poliomielite(1º ref),81.38
+RO,Tríplice Viral  D1,102.28
+AC,Tríplice Viral  D1,89.16
+AM,Tríplice Viral  D1,86.94
+RR,Tríplice Viral  D1,90.17
+PA,Tríplice Viral  D1,94.87
+AP,Tríplice Viral  D1,91.26
+TO,Tríplice Viral  D1,89.86
+MA,Tríplice Viral  D1,101.85
+PI,Tríplice Viral  D1,98.93
+CE,Tríplice Viral  D1,113.07
+RN,Tríplice Viral  D1,94.3
+PB,Tríplice Viral  D1,105.28
+PE,Tríplice Viral  D1,99.33
+AL,Tríplice Viral  D1,93.51
+SE,Tríplice Viral  D1,105.59
+BA,Tríplice Viral  D1,103.98
+MG,Tríplice Viral  D1,106.24
+ES,Tríplice Viral  D1,105.91
+RJ,Tríplice Viral  D1,103.32
+SP,Tríplice Viral  D1,104.99
+PR,Tríplice Viral  D1,102.98
+SC,Tríplice Viral  D1,103.52
+RS,Tríplice Viral  D1,94.72
+MS,Tríplice Viral  D1,107.7
+MT,Tríplice Viral  D1,102.18
+GO,Tríplice Viral  D1,105.01
+DF,Tríplice Viral  D1,96.92
+RO,Tríplice Viral  D2,83.98
+AC,Tríplice Viral  D2,54.17
+AM,Tríplice Viral  D2,69.89
+RR,Tríplice Viral  D2,75.17
+PA,Tríplice Viral  D2,51.81
+AP,Tríplice Viral  D2,66.67
+TO,Tríplice Viral  D2,74.57
+MA,Tríplice Viral  D2,57.88
+PI,Tríplice Viral  D2,63.7
+CE,Tríplice Viral  D2,85.99
+RN,Tríplice Viral  D2,63.0
+PB,Tríplice Viral  D2,65.2
+PE,Tríplice Viral  D2,72.02
+AL,Tríplice Viral  D2,68.51
+SE,Tríplice Viral  D2,72.55
+BA,Tríplice Viral  D2,65.76
+MG,Tríplice Viral  D2,79.82
+ES,Tríplice Viral  D2,78.76
+RJ,Tríplice Viral  D2,70.8
+SP,Tríplice Viral  D2,80.31
+PR,Tríplice Viral  D2,82.21
+SC,Tríplice Viral  D2,81.46
+RS,Tríplice Viral  D2,76.96
+MS,Tríplice Viral  D2,79.97
+MT,Tríplice Viral  D2,75.76
+GO,Tríplice Viral  D2,74.27
+DF,Tríplice Viral  D2,89.83
+RO,Tetra Viral(SRC+VZ),73.95
+AC,Tetra Viral(SRC+VZ),48.82
+AM,Tetra Viral(SRC+VZ),62.4
+RR,Tetra Viral(SRC+VZ),70.88
+PA,Tetra Viral(SRC+VZ),45.06
+AP,Tetra Viral(SRC+VZ),60.47
+TO,Tetra Viral(SRC+VZ),62.97
+MA,Tetra Viral(SRC+VZ),39.62
+PI,Tetra Viral(SRC+VZ),32.63
+CE,Tetra Viral(SRC+VZ),57.05
+RN,Tetra Viral(SRC+VZ),41.38
+PB,Tetra Viral(SRC+VZ),39.01
+PE,Tetra Viral(SRC+VZ),46.93
+AL,Tetra Viral(SRC+VZ),45.54
+SE,Tetra Viral(SRC+VZ),42.6
+BA,Tetra Viral(SRC+VZ),41.28
+MG,Tetra Viral(SRC+VZ),43.54
+ES,Tetra Viral(SRC+VZ),46.91
+RJ,Tetra Viral(SRC+VZ),46.66
+SP,Tetra Viral(SRC+VZ),56.33
+PR,Tetra Viral(SRC+VZ),69.88
+SC,Tetra Viral(SRC+VZ),71.83
+RS,Tetra Viral(SRC+VZ),64.68
+MS,Tetra Viral(SRC+VZ),71.36
+MT,Tetra Viral(SRC+VZ),67.21
+GO,Tetra Viral(SRC+VZ),62.76
+DF,Tetra Viral(SRC+VZ),78.4
+RO,DTP,90.75
+AC,DTP,70.37
+AM,DTP,73.76
+RR,DTP,83.04
+PA,DTP,78.37
+AP,DTP,81.12
+TO,DTP,87.78
+MA,DTP,76.33
+PI,DTP,82.51
+CE,DTP,92.5
+RN,DTP,81.29
+PB,DTP,84.87
+PE,DTP,87.7
+AL,DTP,76.14
+SE,DTP,88.85
+BA,DTP,80.1
+MG,DTP,87.56
+ES,DTP,90.78
+RJ,DTP,86.7
+SP,DTP,89.96
+PR,DTP,89.88
+SC,DTP,88.98
+RS,DTP,85.35
+MS,DTP,91.8
+MT,DTP,86.28
+GO,DTP,86.12
+DF,DTP,86.83
+RO,DTP REF (4 e 6 anos),3.84
+AC,DTP REF (4 e 6 anos),4.94
+AM,DTP REF (4 e 6 anos),4.17
+RR,DTP REF (4 e 6 anos),5.31
+PA,DTP REF (4 e 6 anos),3.29
+AP,DTP REF (4 e 6 anos),4.82
+TO,DTP REF (4 e 6 anos),2.46
+MA,DTP REF (4 e 6 anos),4.33
+PI,DTP REF (4 e 6 anos),2.84
+CE,DTP REF (4 e 6 anos),2.62
+RN,DTP REF (4 e 6 anos),4.72
+PB,DTP REF (4 e 6 anos),3.11
+PE,DTP REF (4 e 6 anos),4.07
+AL,DTP REF (4 e 6 anos),4.74
+SE,DTP REF (4 e 6 anos),2.78
+BA,DTP REF (4 e 6 anos),3.64
+MG,DTP REF (4 e 6 anos),2.57
+ES,DTP REF (4 e 6 anos),2.96
+RJ,DTP REF (4 e 6 anos),4.48
+SP,DTP REF (4 e 6 anos),2.08
+PR,DTP REF (4 e 6 anos),3.09
+SC,DTP REF (4 e 6 anos),2.37
+RS,DTP REF (4 e 6 anos),3.78
+MS,DTP REF (4 e 6 anos),3.53
+MT,DTP REF (4 e 6 anos),3.45
+GO,DTP REF (4 e 6 anos),4.61
+DF,DTP REF (4 e 6 anos),4.64
+RO,Tríplice Bacteriana(DTP)(1º ref),79.65
+AC,Tríplice Bacteriana(DTP)(1º ref),60.67
+AM,Tríplice Bacteriana(DTP)(1º ref),67.25
+RR,Tríplice Bacteriana(DTP)(1º ref),77.28
+PA,Tríplice Bacteriana(DTP)(1º ref),57.81
+AP,Tríplice Bacteriana(DTP)(1º ref),62.23
+TO,Tríplice Bacteriana(DTP)(1º ref),74.19
+MA,Tríplice Bacteriana(DTP)(1º ref),67.67
+PI,Tríplice Bacteriana(DTP)(1º ref),68.06
+CE,Tríplice Bacteriana(DTP)(1º ref),83.81
+RN,Tríplice Bacteriana(DTP)(1º ref),68.47
+PB,Tríplice Bacteriana(DTP)(1º ref),69.6
+PE,Tríplice Bacteriana(DTP)(1º ref),76.9
+AL,Tríplice Bacteriana(DTP)(1º ref),74.43
+SE,Tríplice Bacteriana(DTP)(1º ref),77.71
+BA,Tríplice Bacteriana(DTP)(1º ref),70.64
+MG,Tríplice Bacteriana(DTP)(1º ref),80.78
+ES,Tríplice Bacteriana(DTP)(1º ref),71.11
+RJ,Tríplice Bacteriana(DTP)(1º ref),65.78
+SP,Tríplice Bacteriana(DTP)(1º ref),73.74
+PR,Tríplice Bacteriana(DTP)(1º ref),71.16
+SC,Tríplice Bacteriana(DTP)(1º ref),74.96
+RS,Tríplice Bacteriana(DTP)(1º ref),69.84
+MS,Tríplice Bacteriana(DTP)(1º ref),88.9
+MT,Tríplice Bacteriana(DTP)(1º ref),75.7
+GO,Tríplice Bacteriana(DTP)(1º ref),68.3
+DF,Tríplice Bacteriana(DTP)(1º ref),79.5
+RO,Sarampo,86.23
+AC,Sarampo,69.04
+AM,Sarampo,72.68
+RR,Sarampo,89.77
+PA,Sarampo,80.5
+AP,Sarampo,82.14
+TO,Sarampo,88.22
+MA,Sarampo,78.69
+PI,Sarampo,76.86
+CE,Sarampo,98.09
+RN,Sarampo,79.94
+PB,Sarampo,77.32
+PE,Sarampo,94.92
+AL,Sarampo,69.27
+SE,Sarampo,90.73
+BA,Sarampo,77.27
+MG,Sarampo,81.78
+ES,Sarampo,91.54
+RJ,Sarampo,86.78
+SP,Sarampo,98.54
+PR,Sarampo,91.36
+SC,Sarampo,89.04
+RS,Sarampo,84.64
+MS,Sarampo,85.49
+MT,Sarampo,85.87
+GO,Sarampo,83.93
+DF,Sarampo,5.74
+RO,Haemophilus influenzae b,25.12
+AC,Haemophilus influenzae b,11.12
+AM,Haemophilus influenzae b,19.29
+RR,Haemophilus influenzae b,26.7
+PA,Haemophilus influenzae b,22.59
+AP,Haemophilus influenzae b,29.29
+TO,Haemophilus influenzae b,25.0
+MA,Haemophilus influenzae b,14.44
+PI,Haemophilus influenzae b,24.43
+CE,Haemophilus influenzae b,24.79
+RN,Haemophilus influenzae b,18.5
+PB,Haemophilus influenzae b,23.83
+PE,Haemophilus influenzae b,21.44
+AL,Haemophilus influenzae b,20.08
+SE,Haemophilus influenzae b,26.36
+BA,Haemophilus influenzae b,22.72
+MG,Haemophilus influenzae b,33.54
+ES,Haemophilus influenzae b,25.27
+RJ,Haemophilus influenzae b,30.18
+SP,Haemophilus influenzae b,29.24
+PR,Haemophilus influenzae b,28.86
+SC,Haemophilus influenzae b,27.06
+RS,Haemophilus influenzae b,22.88
+MS,Haemophilus influenzae b,26.89
+MT,Haemophilus influenzae b,22.81
+GO,Haemophilus influenzae b,27.89
+DF,Haemophilus influenzae b,41.94
+RO,Dupla adulto e tríplice acelular gestante,53.88
+AC,Dupla adulto e tríplice acelular gestante,28.64
+AM,Dupla adulto e tríplice acelular gestante,47.39
+RR,Dupla adulto e tríplice acelular gestante,44.48
+PA,Dupla adulto e tríplice acelular gestante,29.93
+AP,Dupla adulto e tríplice acelular gestante,44.45
+TO,Dupla adulto e tríplice acelular gestante,33.73
+MA,Dupla adulto e tríplice acelular gestante,41.04
+PI,Dupla adulto e tríplice acelular gestante,34.65
+CE,Dupla adulto e tríplice acelular gestante,64.58
+RN,Dupla adulto e tríplice acelular gestante,42.59
+PB,Dupla adulto e tríplice acelular gestante,39.03
+PE,Dupla adulto e tríplice acelular gestante,55.66
+AL,Dupla adulto e tríplice acelular gestante,51.17
+SE,Dupla adulto e tríplice acelular gestante,41.62
+BA,Dupla adulto e tríplice acelular gestante,36.06
+MG,Dupla adulto e tríplice acelular gestante,33.12
+ES,Dupla adulto e tríplice acelular gestante,51.18
+RJ,Dupla adulto e tríplice acelular gestante,40.09
+SP,Dupla adulto e tríplice acelular gestante,38.7
+PR,Dupla adulto e tríplice acelular gestante,34.14
+SC,Dupla adulto e tríplice acelular gestante,39.69
+RS,Dupla adulto e tríplice acelular gestante,33.09
+MS,Dupla adulto e tríplice acelular gestante,51.55
+MT,Dupla adulto e tríplice acelular gestante,45.79
+GO,Dupla adulto e tríplice acelular gestante,32.53
+DF,Dupla adulto e tríplice acelular gestante,58.45
+RO,dTpa gestante,39.87
+AC,dTpa gestante,20.42
+AM,dTpa gestante,40.24
+RR,dTpa gestante,41.19
+PA,dTpa gestante,20.42
+AP,dTpa gestante,31.16
+TO,dTpa gestante,31.95
+MA,dTpa gestante,31.94
+PI,dTpa gestante,26.38
+CE,dTpa gestante,46.78
+RN,dTpa gestante,30.08
+PB,dTpa gestante,30.01
+PE,dTpa gestante,42.56
+AL,dTpa gestante,37.61
+SE,dTpa gestante,28.14
+BA,dTpa gestante,27.96
+MG,dTpa gestante,32.54
+ES,dTpa gestante,46.17
+RJ,dTpa gestante,38.41
+SP,dTpa gestante,32.58
+PR,dTpa gestante,35.6
+SC,dTpa gestante,36.24
+RS,dTpa gestante,28.67
+MS,dTpa gestante,39.81
+MT,dTpa gestante,34.55
+GO,dTpa gestante,35.59
+DF,dTpa gestante,41.23

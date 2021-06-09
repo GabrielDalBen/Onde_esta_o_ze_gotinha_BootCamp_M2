@@ -1,0 +1,703 @@
+Ano,UF,Cobertura Vacinal
+1994,Rondônia,42.76
+1995,Rondônia,50.8
+1996,Rondônia,76.05
+1997,Rondônia,83.33
+1998,Rondônia,93.26
+1999,Rondônia,82.31
+2000,Rondônia,79.59
+2001,Rondônia,83.7
+2002,Rondônia,78.18
+2003,Rondônia,72.3
+2004,Rondônia,81.87
+2005,Rondônia,80.75
+2006,Rondônia,84.44
+2007,Rondônia,86.21
+2008,Rondônia,82.39
+2009,Rondônia,83.87
+2010,Rondônia,79.26
+2011,Rondônia,92.75
+2012,Rondônia,85.82
+2013,Rondônia,76.72
+2014,Rondônia,98.18
+2015,Rondônia,111.27
+2016,Rondônia,63.77
+2017,Rondônia,80.74
+2018,Rondônia,82.45
+2019,Rondônia,51.44
+1994,Acre,20.53
+1995,Acre,46.61
+1996,Acre,36.59
+1997,Acre,67.56
+1998,Acre,66.38
+1999,Acre,85.61
+2000,Acre,66.79
+2001,Acre,76.77
+2002,Acre,81.66
+2003,Acre,77.54
+2004,Acre,80.21
+2005,Acre,72.09
+2006,Acre,70.66
+2007,Acre,80.54
+2008,Acre,75.04
+2009,Acre,79.18
+2010,Acre,76.32
+2011,Acre,84.74
+2012,Acre,74.35
+2013,Acre,58.87
+2014,Acre,59.29
+2015,Acre,75.54
+2016,Acre,46.91
+2017,Acre,62.18
+2018,Acre,67.44
+2019,Acre,45.44
+1994,Amazonas,20.15
+1995,Amazonas,35.82
+1996,Amazonas,49.88
+1997,Amazonas,72.01
+1998,Amazonas,70.62
+1999,Amazonas,72.19
+2000,Amazonas,70.91
+2001,Amazonas,70.68
+2002,Amazonas,70.98
+2003,Amazonas,64.77
+2004,Amazonas,72.14
+2005,Amazonas,73.67
+2006,Amazonas,74.81
+2007,Amazonas,78.84
+2008,Amazonas,76.4
+2009,Amazonas,78.63
+2010,Amazonas,73.3
+2011,Amazonas,80.09
+2012,Amazonas,79.18
+2013,Amazonas,67.06
+2014,Amazonas,77.14
+2015,Amazonas,94.95
+2016,Amazonas,48.27
+2017,Amazonas,65.33
+2018,Amazonas,69.82
+2019,Amazonas,49.97
+1994,Roraima,64.06
+1995,Roraima,88.84
+1996,Roraima,89.18
+1997,Roraima,80.26
+1998,Roraima,97.45
+1999,Roraima,93.76
+2000,Roraima,83.94
+2001,Roraima,72.67
+2002,Roraima,78.33
+2003,Roraima,72.99
+2004,Roraima,80.28
+2005,Roraima,78.26
+2006,Roraima,74.22
+2007,Roraima,76.9
+2008,Roraima,71.13
+2009,Roraima,80.21
+2010,Roraima,75.19
+2011,Roraima,84.42
+2012,Roraima,73.13
+2013,Roraima,60.7
+2014,Roraima,82.3
+2015,Roraima,105.27
+2016,Roraima,57.41
+2017,Roraima,74.26
+2018,Roraima,78.76
+2019,Roraima,48.04
+1994,Pará,32.44
+1995,Pará,40.11
+1996,Pará,51.26
+1997,Pará,67.09
+1998,Pará,67.46
+1999,Pará,82.95
+2000,Pará,77.23
+2001,Pará,83.43
+2002,Pará,82.66
+2003,Pará,80.5
+2004,Pará,97.38
+2005,Pará,89.17
+2006,Pará,86.99
+2007,Pará,87.87
+2008,Pará,84.7
+2009,Pará,84.02
+2010,Pará,81.55
+2011,Pará,84.11
+2012,Pará,77.87
+2013,Pará,67.91
+2014,Pará,71.71
+2015,Pará,67.51
+2016,Pará,41.43
+2017,Pará,57.6
+2018,Pará,57.44
+2019,Pará,37.53
+1994,Amapá,N/A
+1995,Amapá,34.68
+1996,Amapá,44.75
+1997,Amapá,52.06
+1998,Amapá,73.77
+1999,Amapá,83.48
+2000,Amapá,70.61
+2001,Amapá,101.5
+2002,Amapá,75.61
+2003,Amapá,76.13
+2004,Amapá,84.83
+2005,Amapá,81.02
+2006,Amapá,76.09
+2007,Amapá,76.76
+2008,Amapá,74.15
+2009,Amapá,84.31
+2010,Amapá,75.31
+2011,Amapá,77.88
+2012,Amapá,73.77
+2013,Amapá,67.66
+2014,Amapá,76.11
+2015,Amapá,88.75
+2016,Amapá,56.62
+2017,Amapá,58.66
+2018,Amapá,63.32
+2019,Amapá,44.02
+1994,Tocantins,N/A
+1995,Tocantins,N/A
+1996,Tocantins,65.44
+1997,Tocantins,56.24
+1998,Tocantins,86.73
+1999,Tocantins,87.82
+2000,Tocantins,80.63
+2001,Tocantins,87.42
+2002,Tocantins,80.88
+2003,Tocantins,75.39
+2004,Tocantins,79.6
+2005,Tocantins,78.77
+2006,Tocantins,78.68
+2007,Tocantins,81.81
+2008,Tocantins,79.42
+2009,Tocantins,81.54
+2010,Tocantins,75.12
+2011,Tocantins,87.78
+2012,Tocantins,76.34
+2013,Tocantins,72.78
+2014,Tocantins,85.09
+2015,Tocantins,92.37
+2016,Tocantins,60.94
+2017,Tocantins,81.7
+2018,Tocantins,82.32
+2019,Tocantins,57.59
+1994,Maranhão,27.43
+1995,Maranhão,35.69
+1996,Maranhão,41.05
+1997,Maranhão,60.33
+1998,Maranhão,68.09
+1999,Maranhão,81.1
+2000,Maranhão,74.81
+2001,Maranhão,79.09
+2002,Maranhão,76.93
+2003,Maranhão,75.58
+2004,Maranhão,82.82
+2005,Maranhão,83.49
+2006,Maranhão,82.76
+2007,Maranhão,87.34
+2008,Maranhão,83.64
+2009,Maranhão,84.62
+2010,Maranhão,87.04
+2011,Maranhão,87.15
+2012,Maranhão,77.67
+2013,Maranhão,73.54
+2014,Maranhão,83.27
+2015,Maranhão,94.4
+2016,Maranhão,43.38
+2017,Maranhão,60.87
+2018,Maranhão,64.51
+2019,Maranhão,40.05
+1994,Piauí,62.22
+1995,Piauí,48.16
+1996,Piauí,46.4
+1997,Piauí,57.65
+1998,Piauí,64.59
+1999,Piauí,81.53
+2000,Piauí,78.74
+2001,Piauí,81.18
+2002,Piauí,79.67
+2003,Piauí,74.41
+2004,Piauí,83.46
+2005,Piauí,76.6
+2006,Piauí,78.18
+2007,Piauí,80.34
+2008,Piauí,76.69
+2009,Piauí,78.11
+2010,Piauí,75.44
+2011,Piauí,86.04
+2012,Piauí,77.57
+2013,Piauí,71.99
+2014,Piauí,76.06
+2015,Piauí,80.68
+2016,Piauí,46.94
+2017,Piauí,67.25
+2018,Piauí,70.8
+2019,Piauí,44.88
+1994,Ceará,49.2
+1995,Ceará,50.06
+1996,Ceará,60.28
+1997,Ceará,74.0
+1998,Ceará,64.09
+1999,Ceará,88.63
+2000,Ceará,78.82
+2001,Ceará,83.18
+2002,Ceará,78.97
+2003,Ceará,73.21
+2004,Ceará,81.36
+2005,Ceará,78.84
+2006,Ceará,76.59
+2007,Ceará,78.58
+2008,Ceará,74.75
+2009,Ceará,76.1
+2010,Ceará,74.4
+2011,Ceará,83.44
+2012,Ceará,74.76
+2013,Ceará,73.09
+2014,Ceará,96.57
+2015,Ceará,107.71
+2016,Ceará,56.44
+2017,Ceará,73.67
+2018,Ceará,77.37
+2019,Ceará,47.53
+1994,Rio Grande do Norte,41.34
+1995,Rio Grande do Norte,49.23
+1996,Rio Grande do Norte,56.57
+1997,Rio Grande do Norte,61.55
+1998,Rio Grande do Norte,58.99
+1999,Rio Grande do Norte,78.8
+2000,Rio Grande do Norte,70.21
+2001,Rio Grande do Norte,73.12
+2002,Rio Grande do Norte,73.2
+2003,Rio Grande do Norte,71.76
+2004,Rio Grande do Norte,78.42
+2005,Rio Grande do Norte,72.55
+2006,Rio Grande do Norte,73.24
+2007,Rio Grande do Norte,74.52
+2008,Rio Grande do Norte,70.54
+2009,Rio Grande do Norte,72.82
+2010,Rio Grande do Norte,71.04
+2011,Rio Grande do Norte,81.3
+2012,Rio Grande do Norte,74.96
+2013,Rio Grande do Norte,66.86
+2014,Rio Grande do Norte,82.44
+2015,Rio Grande do Norte,89.17
+2016,Rio Grande do Norte,42.23
+2017,Rio Grande do Norte,53.69
+2018,Rio Grande do Norte,67.54
+2019,Rio Grande do Norte,38.1
+1994,Paraíba,N/A
+1995,Paraíba,22.82
+1996,Paraíba,45.23
+1997,Paraíba,63.28
+1998,Paraíba,61.39
+1999,Paraíba,81.68
+2000,Paraíba,72.88
+2001,Paraíba,80.28
+2002,Paraíba,76.52
+2003,Paraíba,71.43
+2004,Paraíba,79.32
+2005,Paraíba,76.29
+2006,Paraíba,76.74
+2007,Paraíba,79.46
+2008,Paraíba,74.71
+2009,Paraíba,76.88
+2010,Paraíba,77.15
+2011,Paraíba,82.82
+2012,Paraíba,70.88
+2013,Paraíba,71.43
+2014,Paraíba,83.53
+2015,Paraíba,86.34
+2016,Paraíba,50.1
+2017,Paraíba,66.15
+2018,Paraíba,69.43
+2019,Paraíba,43.87
+1994,Pernambuco,33.46
+1995,Pernambuco,78.01
+1996,Pernambuco,72.86
+1997,Pernambuco,82.44
+1998,Pernambuco,81.41
+1999,Pernambuco,87.47
+2000,Pernambuco,76.93
+2001,Pernambuco,76.73
+2002,Pernambuco,77.76
+2003,Pernambuco,77.22
+2004,Pernambuco,80.43
+2005,Pernambuco,78.07
+2006,Pernambuco,76.81
+2007,Pernambuco,80.36
+2008,Pernambuco,75.91
+2009,Pernambuco,78.11
+2010,Pernambuco,74.95
+2011,Pernambuco,88.72
+2012,Pernambuco,78.44
+2013,Pernambuco,71.8
+2014,Pernambuco,86.44
+2015,Pernambuco,101.09
+2016,Pernambuco,51.43
+2017,Pernambuco,65.2
+2018,Pernambuco,70.43
+2019,Pernambuco,44.91
+1994,Alagoas,N/A
+1995,Alagoas,28.35
+1996,Alagoas,46.58
+1997,Alagoas,50.95
+1998,Alagoas,54.52
+1999,Alagoas,78.3
+2000,Alagoas,72.36
+2001,Alagoas,74.45
+2002,Alagoas,76.03
+2003,Alagoas,71.21
+2004,Alagoas,89.49
+2005,Alagoas,76.6
+2006,Alagoas,74.4
+2007,Alagoas,72.64
+2008,Alagoas,69.0
+2009,Alagoas,75.31
+2010,Alagoas,74.08
+2011,Alagoas,73.81
+2012,Alagoas,70.45
+2013,Alagoas,67.3
+2014,Alagoas,84.08
+2015,Alagoas,92.74
+2016,Alagoas,44.88
+2017,Alagoas,65.01
+2018,Alagoas,70.79
+2019,Alagoas,44.26
+1994,Sergipe,N/A
+1995,Sergipe,67.66
+1996,Sergipe,67.28
+1997,Sergipe,73.92
+1998,Sergipe,71.66
+1999,Sergipe,98.68
+2000,Sergipe,77.96
+2001,Sergipe,79.01
+2002,Sergipe,78.28
+2003,Sergipe,76.06
+2004,Sergipe,78.75
+2005,Sergipe,73.63
+2006,Sergipe,73.28
+2007,Sergipe,77.6
+2008,Sergipe,75.27
+2009,Sergipe,76.07
+2010,Sergipe,76.12
+2011,Sergipe,83.94
+2012,Sergipe,74.33
+2013,Sergipe,74.76
+2014,Sergipe,86.11
+2015,Sergipe,91.0
+2016,Sergipe,47.05
+2017,Sergipe,63.49
+2018,Sergipe,68.76
+2019,Sergipe,46.21
+1994,Bahia,42.98
+1995,Bahia,28.19
+1996,Bahia,38.02
+1997,Bahia,59.22
+1998,Bahia,64.03
+1999,Bahia,82.45
+2000,Bahia,74.08
+2001,Bahia,81.56
+2002,Bahia,76.22
+2003,Bahia,72.9
+2004,Bahia,92.19
+2005,Bahia,81.47
+2006,Bahia,80.36
+2007,Bahia,78.42
+2008,Bahia,74.57
+2009,Bahia,76.77
+2010,Bahia,75.41
+2011,Bahia,84.73
+2012,Bahia,77.33
+2013,Bahia,72.29
+2014,Bahia,83.78
+2015,Bahia,93.06
+2016,Bahia,44.35
+2017,Bahia,63.11
+2018,Bahia,63.5
+2019,Bahia,38.68
+1994,Minas Gerais,N/A
+1995,Minas Gerais,N/A
+1996,Minas Gerais,N/A
+1997,Minas Gerais,62.6
+1998,Minas Gerais,62.43
+1999,Minas Gerais,90.14
+2000,Minas Gerais,79.7
+2001,Minas Gerais,90.28
+2002,Minas Gerais,75.07
+2003,Minas Gerais,69.4
+2004,Minas Gerais,77.73
+2005,Minas Gerais,77.68
+2006,Minas Gerais,76.92
+2007,Minas Gerais,77.3
+2008,Minas Gerais,74.74
+2009,Minas Gerais,78.01
+2010,Minas Gerais,80.85
+2011,Minas Gerais,87.4
+2012,Minas Gerais,82.73
+2013,Minas Gerais,80.04
+2014,Minas Gerais,90.21
+2015,Minas Gerais,100.33
+2016,Minas Gerais,57.58
+2017,Minas Gerais,80.42
+2018,Minas Gerais,85.42
+2019,Minas Gerais,53.43
+1994,Espírito Santo,55.22
+1995,Espírito Santo,74.91
+1996,Espírito Santo,75.62
+1997,Espírito Santo,77.78
+1998,Espírito Santo,89.21
+1999,Espírito Santo,94.67
+2000,Espírito Santo,79.36
+2001,Espírito Santo,80.75
+2002,Espírito Santo,78.05
+2003,Espírito Santo,77.65
+2004,Espírito Santo,80.76
+2005,Espírito Santo,78.62
+2006,Espírito Santo,77.39
+2007,Espírito Santo,76.58
+2008,Espírito Santo,75.19
+2009,Espírito Santo,75.93
+2010,Espírito Santo,74.74
+2011,Espírito Santo,88.35
+2012,Espírito Santo,79.71
+2013,Espírito Santo,72.3
+2014,Espírito Santo,90.98
+2015,Espírito Santo,98.39
+2016,Espírito Santo,51.19
+2017,Espírito Santo,66.35
+2018,Espírito Santo,74.22
+2019,Espírito Santo,48.72
+1994,Rio de Janeiro,N/A
+1995,Rio de Janeiro,43.29
+1996,Rio de Janeiro,36.26
+1997,Rio de Janeiro,69.12
+1998,Rio de Janeiro,73.78
+1999,Rio de Janeiro,91.77
+2000,Rio de Janeiro,75.16
+2001,Rio de Janeiro,75.02
+2002,Rio de Janeiro,74.66
+2003,Rio de Janeiro,71.5
+2004,Rio de Janeiro,75.23
+2005,Rio de Janeiro,75.26
+2006,Rio de Janeiro,71.88
+2007,Rio de Janeiro,71.89
+2008,Rio de Janeiro,69.15
+2009,Rio de Janeiro,71.36
+2010,Rio de Janeiro,67.48
+2011,Rio de Janeiro,83.91
+2012,Rio de Janeiro,73.71
+2013,Rio de Janeiro,68.11
+2014,Rio de Janeiro,84.08
+2015,Rio de Janeiro,96.14
+2016,Rio de Janeiro,47.98
+2017,Rio de Janeiro,67.04
+2018,Rio de Janeiro,61.37
+2019,Rio de Janeiro,25.99
+1994,São Paulo,N/A
+1995,São Paulo,45.01
+1996,São Paulo,44.86
+1997,São Paulo,74.7
+1998,São Paulo,79.73
+1999,São Paulo,92.11
+2000,São Paulo,76.19
+2001,São Paulo,76.51
+2002,São Paulo,73.3
+2003,São Paulo,71.29
+2004,São Paulo,74.03
+2005,São Paulo,72.44
+2006,São Paulo,71.6
+2007,São Paulo,70.92
+2008,São Paulo,69.7
+2009,São Paulo,72.49
+2010,São Paulo,70.36
+2011,São Paulo,84.96
+2012,São Paulo,77.28
+2013,São Paulo,73.37
+2014,São Paulo,88.2
+2015,São Paulo,98.63
+2016,São Paulo,45.94
+2017,São Paulo,67.29
+2018,São Paulo,71.52
+2019,São Paulo,46.18
+1994,Paraná,N/A
+1995,Paraná,35.3
+1996,Paraná,51.84
+1997,Paraná,76.53
+1998,Paraná,63.4
+1999,Paraná,75.09
+2000,Paraná,78.72
+2001,Paraná,81.01
+2002,Paraná,77.26
+2003,Paraná,73.48
+2004,Paraná,80.6
+2005,Paraná,73.68
+2006,Paraná,74.62
+2007,Paraná,76.87
+2008,Paraná,73.64
+2009,Paraná,76.66
+2010,Paraná,75.22
+2011,Paraná,89.97
+2012,Paraná,79.48
+2013,Paraná,77.59
+2014,Paraná,86.95
+2015,Paraná,96.41
+2016,Paraná,55.32
+2017,Paraná,77.66
+2018,Paraná,81.79
+2019,Paraná,58.11
+1994,Santa Catarina,51.6
+1995,Santa Catarina,55.47
+1996,Santa Catarina,48.53
+1997,Santa Catarina,73.29
+1998,Santa Catarina,71.64
+1999,Santa Catarina,82.85
+2000,Santa Catarina,75.49
+2001,Santa Catarina,78.11
+2002,Santa Catarina,74.59
+2003,Santa Catarina,73.68
+2004,Santa Catarina,73.76
+2005,Santa Catarina,74.02
+2006,Santa Catarina,73.07
+2007,Santa Catarina,73.51
+2008,Santa Catarina,72.19
+2009,Santa Catarina,74.86
+2010,Santa Catarina,74.18
+2011,Santa Catarina,88.07
+2012,Santa Catarina,78.79
+2013,Santa Catarina,72.94
+2014,Santa Catarina,91.81
+2015,Santa Catarina,100.69
+2016,Santa Catarina,58.88
+2017,Santa Catarina,75.82
+2018,Santa Catarina,82.43
+2019,Santa Catarina,60.59
+1994,Rio Grande do Sul,N/A
+1995,Rio Grande do Sul,65.25
+1996,Rio Grande do Sul,58.9
+1997,Rio Grande do Sul,65.07
+1998,Rio Grande do Sul,63.25
+1999,Rio Grande do Sul,85.9
+2000,Rio Grande do Sul,71.91
+2001,Rio Grande do Sul,75.6
+2002,Rio Grande do Sul,74.07
+2003,Rio Grande do Sul,71.71
+2004,Rio Grande do Sul,72.3
+2005,Rio Grande do Sul,70.25
+2006,Rio Grande do Sul,69.27
+2007,Rio Grande do Sul,68.75
+2008,Rio Grande do Sul,67.61
+2009,Rio Grande do Sul,69.2
+2010,Rio Grande do Sul,67.22
+2011,Rio Grande do Sul,81.99
+2012,Rio Grande do Sul,72.95
+2013,Rio Grande do Sul,73.47
+2014,Rio Grande do Sul,84.15
+2015,Rio Grande do Sul,87.69
+2016,Rio Grande do Sul,53.86
+2017,Rio Grande do Sul,72.54
+2018,Rio Grande do Sul,74.94
+2019,Rio Grande do Sul,51.65
+1994,Mato Grosso do Sul,N/A
+1995,Mato Grosso do Sul,N/A
+1996,Mato Grosso do Sul,39.02
+1997,Mato Grosso do Sul,70.62
+1998,Mato Grosso do Sul,75.01
+1999,Mato Grosso do Sul,92.05
+2000,Mato Grosso do Sul,85.08
+2001,Mato Grosso do Sul,88.66
+2002,Mato Grosso do Sul,80.84
+2003,Mato Grosso do Sul,77.14
+2004,Mato Grosso do Sul,75.55
+2005,Mato Grosso do Sul,75.05
+2006,Mato Grosso do Sul,76.7
+2007,Mato Grosso do Sul,78.4
+2008,Mato Grosso do Sul,74.89
+2009,Mato Grosso do Sul,78.53
+2010,Mato Grosso do Sul,75.77
+2011,Mato Grosso do Sul,89.37
+2012,Mato Grosso do Sul,83.46
+2013,Mato Grosso do Sul,81.81
+2014,Mato Grosso do Sul,110.11
+2015,Mato Grosso do Sul,113.07
+2016,Mato Grosso do Sul,63.55
+2017,Mato Grosso do Sul,78.81
+2018,Mato Grosso do Sul,83.52
+2019,Mato Grosso do Sul,52.21
+1994,Mato Grosso,31.76
+1995,Mato Grosso,37.67
+1996,Mato Grosso,37.44
+1997,Mato Grosso,74.22
+1998,Mato Grosso,78.08
+1999,Mato Grosso,84.87
+2000,Mato Grosso,84.34
+2001,Mato Grosso,85.97
+2002,Mato Grosso,81.93
+2003,Mato Grosso,77.24
+2004,Mato Grosso,82.44
+2005,Mato Grosso,81.55
+2006,Mato Grosso,79.43
+2007,Mato Grosso,82.68
+2008,Mato Grosso,78.12
+2009,Mato Grosso,79.38
+2010,Mato Grosso,73.54
+2011,Mato Grosso,87.4
+2012,Mato Grosso,81.37
+2013,Mato Grosso,75.04
+2014,Mato Grosso,92.61
+2015,Mato Grosso,100.32
+2016,Mato Grosso,58.32
+2017,Mato Grosso,74.28
+2018,Mato Grosso,76.7
+2019,Mato Grosso,46.38
+1994,Goiás,22.37
+1995,Goiás,69.81
+1996,Goiás,66.93
+1997,Goiás,70.07
+1998,Goiás,73.23
+1999,Goiás,87.36
+2000,Goiás,82.76
+2001,Goiás,83.87
+2002,Goiás,82.66
+2003,Goiás,79.45
+2004,Goiás,92.38
+2005,Goiás,81.91
+2006,Goiás,81.78
+2007,Goiás,84.69
+2008,Goiás,80.21
+2009,Goiás,80.41
+2010,Goiás,76.25
+2011,Goiás,96.24
+2012,Goiás,82.52
+2013,Goiás,79.36
+2014,Goiás,86.63
+2015,Goiás,93.55
+2016,Goiás,53.6
+2017,Goiás,73.25
+2018,Goiás,71.85
+2019,Goiás,47.04
+1994,Distrito Federal,N/A
+1995,Distrito Federal,0.34
+1996,Distrito Federal,55.99
+1997,Distrito Federal,64.17
+1998,Distrito Federal,84.43
+1999,Distrito Federal,86.24
+2000,Distrito Federal,73.49
+2001,Distrito Federal,71.77
+2002,Distrito Federal,69.15
+2003,Distrito Federal,70.1
+2004,Distrito Federal,84.5
+2005,Distrito Federal,77.52
+2006,Distrito Federal,80.5
+2007,Distrito Federal,84.21
+2008,Distrito Federal,80.92
+2009,Distrito Federal,90.75
+2010,Distrito Federal,80.07
+2011,Distrito Federal,67.7
+2012,Distrito Federal,64.84
+2013,Distrito Federal,85.83
+2014,Distrito Federal,89.33
+2015,Distrito Federal,71.55
+2016,Distrito Federal,75.28
+2017,Distrito Federal,73.82
+2018,Distrito Federal,73.85
+2019,Distrito Federal,49.58
