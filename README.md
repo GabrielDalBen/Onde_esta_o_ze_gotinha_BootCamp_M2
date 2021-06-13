@@ -14,3 +14,42 @@
 ## Dados Brutos
 ---
 Aqui estão todos os dados coletados diretamente da plataforma [DATASUS](http://tabnet.datasus.gov.br/cgi/menu_tabnet_php.htm#) do ministerio da Saúde.
+
+
+## Dados Limpos
+---
+Nesse diretorio estão todos os dados limpos e filtrados. Além disso, o Notebook contendo todo o processo de limpeza e manipulação dos Dataframes.
+
+
+## Objetivos do Projeto
+---
+Esse projeto teve como principal objetivo analisar o sucesso das campanhas de vacinaçao baseado na taxa de cobertura vacinal atingida a cada ano. Além disso, esse projeto objetivou relacionar a possibilidade de algumas doenças voltarem a circular devido a baixa taxa de vacinação da população.
+
+## Tabela de conteúdos
+---
+
+
+## Conclusao
+---
+
+
+Diante de todos esses dados, podemos concluir que a situação vacinal do Brasil é crítica, por anos o país não vem atingindo os valores ideais de cobertura vacinal. De fato, atualmente o país apresenta os piores valores já registrados. A pandemia de COVID-19 agravou a situação, contudo esse problema é anterior à pandemia.
+
+A diminuição de aportes financeiros em campanhas de conscientização levam o país a uma situação nunca antes vista desde a criação do PNI. Personagens como o Zé gotinha, que entraram no imaginário popular, são esquecidos e campanhas inteiras de vacinação são negligenciadas.
+
+Doenças como o Sarampo, antes erradicadas, já voltaram a ocorrer no Brasil logo após a queda na vacinação. Além disso, corremos o risco de termos novamente a Poliomielite circulando no território nacional.
+
+Desse modo, é urgente a retomada do investimento e de políticas públicas que foquem na conscientização e na informação da população sobre a vacinação. Adicionalmente, é necessário garantir o acesso fácil às vacinas.
+
+### Autor
+---
+
+ <img style="border-radius:  10% 30% 50% 70%;" src="https://avatars3.githubusercontent.com/u/16099477?s=400&u=9c91a633df96d3a8907f7a12ba7e2dade0482c72&v=4" width="100px;" alt=""/>
+ <br />
+ 
+Feito por Gabriel Dal Ben
+<br />
+Mande seu Feedback!
+
+[![Twitter Badge](https://img.shields.io/badge/-@gabriel_bd-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gabriel_bd)](https://twitter.com/gabriel_bd) [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieldalben/)](www.linkedin.com/in/gabrieldalben/) 
+[![Gmail Badge](https://img.shields.io/badge/-gbdalbem.26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gbdalbem.26@gmail.com)](mailto:gbdalbem.26@gmail.com)
