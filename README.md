@@ -16,7 +16,7 @@
 Aqui estão todos os dados coletados diretamente da plataforma [DATASUS](http://tabnet.datasus.gov.br/cgi/menu_tabnet_php.htm#) do ministério da Saúde.
 
 
-## [Dados Limpos](https://github.com/GabrielDalBen/Onde_esta_o_ze_gotinha_BootCamp_M2/tree/main/dados_limpos
+## [Dados Limpos](https://github.com/GabrielDalBen/Onde_esta_o_ze_gotinha_BootCamp_M2/tree/main/dados_limpos)
 ---
 Neste diretório estão todos os dados limpos e filtrados. Além disso, um [Notebook](https://github.com/GabrielDalBen/Onde_esta_o_ze_gotinha_BootCamp_M2/blob/main/dados_limpos/Limpeza_dados_brutos.ipynb) que contém todo o processo de limpeza e manipulação dos Dataframes.
 
