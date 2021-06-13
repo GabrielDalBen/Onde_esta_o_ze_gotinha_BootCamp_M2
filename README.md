@@ -23,7 +23,10 @@ Neste diretório estão todos os dados limpos e filtrados. Além disso, um [Note
 
 ## Objetivos do Projeto
 ---
-Esse projeto teve como principal objetivo analisar o sucesso das campanhas de vacinaçao baseado na taxa de cobertura vacinal atingida a cada ano. Além disso, esse projeto objetivou relacionar a possibilidade de algumas doenças voltarem a circular devido a baixa taxa de vacinação da população.
+Esse projeto teve como principal objetivo fazer uma breve análise do sucesso das campanhas de vacinação baseado na taxa de cobertura vacinal atingida a cada ano. 
+
+Além disso, esse projeto objetivou relacionar a possibilidade de algumas doenças voltarem a circular devido a baixa taxa de vacinação da população.
+
 
 ## Tabela de conteúdos
 ---
@@ -31,7 +34,6 @@ Esse projeto teve como principal objetivo analisar o sucesso das campanhas de va
 
 ## Conclusao
 ---
-
 
 Diante de todos esses dados, podemos concluir que a situação vacinal do Brasil é crítica, por anos o país não vem atingindo os valores ideais de cobertura vacinal. De fato, atualmente o país apresenta os piores valores já registrados. A pandemia de COVID-19 agravou a situação, contudo esse problema é anterior à pandemia.
 
@@ -41,9 +43,9 @@ Doenças como o Sarampo, antes erradicadas, já voltaram a ocorrer no Brasil log
 
 Desse modo, é urgente a retomada do investimento e de políticas públicas que foquem na conscientização e na informação da população sobre a vacinação. Adicionalmente, é necessário garantir o acesso fácil às vacinas.
 
+
 ### Autor
 ---
-
  <img style="border-radius:  10% 30% 50% 70%;" src="https://avatars3.githubusercontent.com/u/16099477?s=400&u=9c91a633df96d3a8907f7a12ba7e2dade0482c72&v=4" width="100px;" alt=""/>
  <br />
  
@@ -53,3 +55,5 @@ Mande seu Feedback!
 
 [![Twitter Badge](https://img.shields.io/badge/-@gabriel_bd-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gabriel_bd)](https://twitter.com/gabriel_bd) [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieldalben/)](www.linkedin.com/in/gabrieldalben/) 
 [![Gmail Badge](https://img.shields.io/badge/-gbdalbem.26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gbdalbem.26@gmail.com)](mailto:gbdalbem.26@gmail.com)
+
+<img src='https://media1.tenor.com/images/863df132b0c2a69ce7681c7ce64a744c/tenor.gif?itemid=20720474' width="800" height="800">
