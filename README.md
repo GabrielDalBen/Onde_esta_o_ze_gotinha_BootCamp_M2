@@ -18,7 +18,7 @@ Aqui estão todos os dados coletados diretamente da plataforma [DATASUS](http://
 
 ## [Dados Limpos](https://github.com/GabrielDalBen/Onde_esta_o_ze_gotinha_BootCamp_M2/tree/main/dados_limpos)
 ---
-Neste diretório estão todos os dados limpos e filtrados. Além disso, um [Notebook](https://github.com/GabrielDalBen/Onde_esta_o_ze_gotinha_BootCamp_M2/blob/main/dados_limpos/Limpeza_dados_brutos.ipynb) que contém todo o processo de limpeza e manipulação dos Dataframes.
+Neste diretório estão todos os dados limpos e filtrados. Além disso, um [Notebook](https://github.com/GabrielDalBen/Onde_esta_o_ze_gotinha_BootCamp_M2/blob/main/dados_limpos/notebook/Limpeza_dados_brutos.ipynb) que contém todo o processo de limpeza e manipulação dos Dataframes.
 
 
 ## Objetivos do Projeto
