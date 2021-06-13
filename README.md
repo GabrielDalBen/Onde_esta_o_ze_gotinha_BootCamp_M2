@@ -30,6 +30,52 @@ Além disso, esse projeto objetivou relacionar a possibilidade de algumas doenç
 
 ## Tabela de conteúdos
 ---
+<!--ts-->
+   * Vacinas, Brasil e PNI
+   * Dados Analisados
+   * O que é Cobertura vacinal?
+   * Como está a cobertura vacinal no Brasil?
+   * Como a incidência das doenças se relaciona à cobertura vacinal?
+      * Hepatite A e B
+        * Como anda a cobertura vacinal da Hepatite A e B?
+      * Sarampo
+      * Tuberculose
+        * Cobertura vacinal da BCG
+      * Poliomelite
+        * Situação vacinal da polio no Brasil.
+      * Abandono Vacinal
+   * CONCLUSÃO
+   * REFERÊNCIAS BIBLIOGRÁFICAS
+   
+:newspaper:  [1] - https://portal.fiocruz.br/noticia/revolta-da-vacina-2
+
+:newspaper:  [2] - https://bvsms.saude.gov.br/bvs/publicacoes/livro_30_anos_pni.pdf
+
+:newspaper:  [3] - https://saude.abril.com.br/medicina/por-que-as-pessoas-estao-tomando-menos-vacina/
+
+:newspaper:  [4] - https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/12/26/governo-bolsonaro-reduz-gastos-campanhas-vacinacao.htm
+
+:newspaper:  [5] - https://agenciabrasil.ebc.com.br/saude/noticia/2020-10/em-queda-ha-5-anos-coberturas-vacinais-preocupam-ministerio-da-saude
+
+:newspaper:  [6] - https://www.who.int/wer/2012/wer8728_29.pdf
+
+:newspaper:  [7] - http://www.aids.gov.br/pt-br/publico-geral/hv/o-que-sao-hepatites/hepatite-b
+
+:newspaper:  [8] - https://bvsms.saude.gov.br/ultimas-noticias/3025-sarampo-sintomas-prevencao-causas-complicacoes-e-tratamento
+
+:newspaper:  [9] - https://familia.sbim.org.br/vacinas/vacinas-disponiveis/vacina-triplice-viral-sarampo-caxumba-e-rubeola-scr
+
+:newspaper:  [10] - https://familia.sbim.org.br/vacinas/vacinas-disponiveis/vacina-tetraviral-scr-v
+
+:newspaper:  [11] - https://www.tuasaude.com/tuberculose/
+
+:newspaper:  [12] - https://familia.sbim.org.br/vacinas/vacinas-disponiveis/vacina-bcg
+
+:newspaper:  [13] - https://www.scielo.br/j/hcsm/a/9tFSfwSZjFX6NpSvxq9NZws/?lang=pt
+
+:newspaper:  [14] - https://saude.abril.com.br/blog/com-a-palavra/estamos-mesmo-livres-da-poliomielite/
+
+:newspaper:  [15] - https://brasil.elpais.com/brasil/2021-04-20/de-fake-news-a-desigualdade-o-que-leva-brasileiros-a-nao-voltarem-para-tomar-a-segunda-dose-da-vacina.html
 
 
 ## Conclusao
