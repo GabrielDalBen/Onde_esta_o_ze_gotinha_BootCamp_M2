@@ -56,4 +56,4 @@ Mande seu Feedback!
 [![Twitter Badge](https://img.shields.io/badge/-@gabriel_bd-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gabriel_bd)](https://twitter.com/gabriel_bd) [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieldalben/)](www.linkedin.com/in/gabrieldalben/) 
 [![Gmail Badge](https://img.shields.io/badge/-gbdalbem.26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gbdalbem.26@gmail.com)](mailto:gbdalbem.26@gmail.com)
 
-<img src='https://media1.tenor.com/images/863df132b0c2a69ce7681c7ce64a744c/tenor.gif?itemid=20720474' width="800" height="800">
+<gif src='https://media1.tenor.com/images/863df132b0c2a69ce7681c7ce64a744c/tenor.gif?itemid=20720474' width="800" height="800">
