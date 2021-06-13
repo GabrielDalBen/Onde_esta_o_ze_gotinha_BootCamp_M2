@@ -20,6 +20,10 @@ Aqui estão todos os dados coletados diretamente da plataforma [DATASUS](http://
 ---
 Neste diretório estão todos os dados limpos e filtrados. Além disso, um [Notebook](https://github.com/GabrielDalBen/Onde_esta_o_ze_gotinha_BootCamp_M2/blob/main/dados_limpos/notebook/Limpeza_dados_brutos.ipynb) que contém todo o processo de limpeza e manipulação dos Dataframes.
 
+## [Onde está o Zé Gotinha](https://github.com/GabrielDalBen/Onde_esta_o_ze_gotinha_BootCamp_M2/tree/main/onde_esta_o_ze_gotinha)
+---
+Aqui você encontrará o [notebook](https://github.com/GabrielDalBen/Onde_esta_o_ze_gotinha_BootCamp_M2/blob/main/onde_esta_o_ze_gotinha/Onde_esta_o_ze_gotinha.ipynb) do projeto, nele estarão todos os gráficos, análises e textos.
+
 
 ## Objetivos do Projeto
 ---
