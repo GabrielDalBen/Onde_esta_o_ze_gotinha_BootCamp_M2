@@ -11,14 +11,14 @@
 <p>Olá, nesse projeto vamos analisar como anda a cobertura vacinal no Brasil. Durante os últimos anos, o financiamento a campanhas de informação e conscientização sobre a vacinação no país vem diminuindo. Figuras como o Zé Gotinha desapareceram. Será que isso impacta na condução da vacinação? Será que os objetivos das campanhas de vacinação estão sendo alcançados? Corremos riscos de vermos doenças antes erradicadas de volta ao Brasil?</p>
 
 
-## Dados Brutos
+## [Dados Brutos](https://github.com/GabrielDalBen/Onde_esta_o_ze_gotinha_BootCamp_M2/tree/main/dados_brutos)
 ---
-Aqui estão todos os dados coletados diretamente da plataforma [DATASUS](http://tabnet.datasus.gov.br/cgi/menu_tabnet_php.htm#) do ministerio da Saúde.
+Aqui estão todos os dados coletados diretamente da plataforma [DATASUS](http://tabnet.datasus.gov.br/cgi/menu_tabnet_php.htm#) do ministério da Saúde.
 
 
-## Dados Limpos
+## [Dados Limpos](https://github.com/GabrielDalBen/Onde_esta_o_ze_gotinha_BootCamp_M2/tree/main/dados_limpos
 ---
-Nesse diretorio estão todos os dados limpos e filtrados. Além disso, o Notebook contendo todo o processo de limpeza e manipulação dos Dataframes.
+Neste diretório estão todos os dados limpos e filtrados. Além disso, um [Notebook](https://github.com/GabrielDalBen/Onde_esta_o_ze_gotinha_BootCamp_M2/blob/main/dados_limpos/Limpeza_dados_brutos.ipynb) que contém todo o processo de limpeza e manipulação dos Dataframes.
 
 
 ## Objetivos do Projeto
